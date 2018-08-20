@@ -1,4 +1,4 @@
-# Xenos
+# Xenos 1.4
 Staženou složku Xenos doporučuji hodit do C:\ (Jsou tam nastavené configy, kde se cheat snaží najít slzku z C:\)
 
 Aktualní verze cheatu je 1.4 (Vždy když bude upozornění na discordu, odkaz bude vždy odkazovat sem)
