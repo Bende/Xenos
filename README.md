@@ -1,12 +1,21 @@
 # Xenos 1.4.1
 Aktualní verze cheatu je 1.4.1 (Vždy když bude upozornění na discordu, odkaz bude vždy odkazovat sem).
 
+Jak spustit cheat? Spustíš csko -> jakmile uvidíš že jsi ingame na steamu -> otevři Xenos_Inj.
+
 V této verzi cheatu se mi podařilo opravit cheat na VAC net a Panoramu. Něco se pokazilo v chams, medal changeru a trošku aimbotu. Zbytek funguje jak by normálně měl. V Aimbotu to trošku blbne s famasem. (Zbytek jsem si zatím nevšiml, kdyžtak mě opravte). U M4A1_Silencer se deaktivuje aimbot (vůbec nevím proč), takže když hrajete s M4A1_Silencer, musíte si vždy zapnout Active a nastavit Smoooth + Fov. Dále se mi nějak sekl skin na M4A4, ale ten si orpavit můžete samotní v cheatu a pak si ho jen uložit.
 
+FAQ:
+Q: Nedaří se mi Injectnout cheat do cska, co mám dělat?
+A: Zkontroluj jestli je Injector a DLL soubor ve stejné složce a jestli se ti i tak nedaří injectnout, kontaktuj mě na Discordu. (Bende) (Nečekej až budu online, na phone mi příjde upozornění i tak.)
 
+Q: Nezobrazují se mi configy, co mám dělat?
+A: Configy musí být ve složce s hackem, potom se ti určitě zobrazí.
+
+Q: Když csko hodím do Windowsu, vypne se. Proč?
+A: Je to nějaký bug, sám nevím, proč se to děje. Pokusím se ho časem opravit.
 
 NĚJAKÝ INFO PRO NEZNÁLKY, KTERÉ FUNKCE DOPORUČUJI A CHTĚJÍ SI POZMĚNIT NASTAVENÍ:
-
 Aimbot: 
 1.) Čím menší smooth, tím více to cuká
 2.) Čím větší fov, tím se zvětšuje prostor, kdy bude Aim fungovat (Jestli si nejsi jistej, zapni si "Draw Fov")
