@@ -3,7 +3,7 @@ Aktualní verze cheatu je 1.4.1 (Vždy když bude upozornění na discordu, odka
 
 Jak spustit cheat? Spustíš csko -> jakmile uvidíš že jsi ingame na steamu -> otevři Xenos_Inj.
 
-V této verzi cheatu se mi podařilo opravit cheat na VAC net a Panoramu. Něco se pokazilo v chams, medal changeru a trošku aimbotu. Zbytek funguje jak by normálně měl. V Aimbotu to trošku blbne s famasem. (Zbytek jsem si zatím nevšiml, kdyžtak mě opravte). U M4A1_Silencer se deaktivuje aimbot (vůbec nevím proč), takže když hrajete s M4A1_Silencer, musíte si vždy zapnout Active a nastavit Smoooth + Fov. Dále se mi nějak sekl skin na M4A4, ale ten si orpavit můžete samotní v cheatu a pak si ho jen uložit.
+V této verzi cheatu se mi podařilo opravit cheat na VAC net a Panoramu. Něco se pokazilo v chams, medal changeru a trošku aimbotu. Zbytek funguje jak by normálně měl. V Aimbotu to trošku blbne s famasem. (Zbytek jsem si zatím nevšiml, kdyžtak mě opravte). U M4A1_Silencer se deaktivuje aimbot (vůbec nevím proč), takže když hrajete s M4A1_Silencer, musíte si vždy zapnout Active a nastavit Smoooth + Fov. Dále se mi nějak sekl skin na M4A4, ale ten si opravit můžete samotní v cheatu a pak si ho jen uložit.
 
 FAQ:
 Q: Nedaří se mi Injectnout cheat do cska, co mám dělat?
