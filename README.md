@@ -1,4 +1,4 @@
-# Xenos 1.4.1
+# Xenos 1.4.2
 Aktualní verze cheatu je 1.4.2 (Vždy když bude upozornění na discordu, odkaz bude vždy odkazovat sem).
 
 Jak spustit cheat? Spustíš csko -> jakmile uvidíš že jsi ingame na steamu -> otevři Xenos_Inj.
