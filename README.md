@@ -3,6 +3,8 @@ Aktualní verze cheatu je 1.4.2 (Vždy když bude upozornění na discordu, odka
 
 Jak spustit cheat? Spustíš csko -> jakmile uvidíš že jsi ingame na steamu -> otevři Xenos_Inj.
 
+!!! Složku Xenos vlož do dokumentů !!!
+
 V této verzi cheatu jsem udělal nové menu. Vše by mělo být plně funkční. Jen pořád buguje házení do windowsu.
 
 FAQ:
