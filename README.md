@@ -12,7 +12,7 @@ Q: Nedaří se mi Injectnout cheat do cska, co mám dělat?
 A: Zkontroluj jestli je Injector a DLL soubor ve stejné složce a jestli se ti i tak nedaří injectnout, kontaktuj mě na Discordu. (Bende) (Nečekej až budu online, na phone mi příjde upozornění i tak.)
 
 Q: Nezobrazují se mi configy, co mám dělat?
-A: Configy musí být v dokumentech, potom se ti určitě zobrazí.
+A: Configy musí být v dokumentech ve složce "Xenos", potom se ti určitě zobrazí.
 
 Q: Když csko hodím do Windowsu, vypne se. Proč?
 A: Je to nějaký bug, sám nevím, proč se to děje. Pokusím se ho časem opravit.
