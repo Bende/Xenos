@@ -8,36 +8,36 @@ Jak spustit cheat? Spustíš csko -> jakmile uvidíš že jsi ingame na steamu -
 V této verzi cheatu jsem udělal nové menu. Vše by mělo být plně funkční. Jen pořád buguje házení do windowsu.
 
 FAQ:
-Q: Nedaří se mi Injectnout cheat do cska, co mám dělat?
-A: Zkontroluj jestli je Injector a DLL soubor ve stejné složce a jestli se ti i tak nedaří injectnout, kontaktuj mě na Discordu. (Bende) (Nečekej až budu online, na phone mi příjde upozornění i tak.)
+Q:Nedaří se mi Injectnout cheat do cska, co mám dělat?
+A:Zkontroluj jestli je Injector a DLL soubor ve stejné složce a jestli se ti i tak nedaří injectnout, kontaktuj mě na Discordu. (Bende) (Nečekej až budu online, na phone mi příjde upozornění i tak.)
 
-Q: Nezobrazují se mi configy, co mám dělat?
-A: Configy musí být v dokumentech ve složce "Xenos", potom se ti určitě zobrazí.
+Q:Nezobrazují se mi configy, co mám dělat?
+A:Configy musí být v dokumentech ve složce "Xenos", potom se ti určitě zobrazí.
 
-Q: Když csko hodím do Windowsu, vypne se. Proč?
-A: Je to nějaký bug, sám nevím, proč se to děje. Pokusím se ho časem opravit.
+Q:Když csko hodím do Windowsu, vypne se. Proč?
+A:Je to nějaký bug, sám nevím, proč se to děje. Pokusím se ho časem opravit.
 
 NĚJAKÝ INFO PRO NEZNÁLKY, KTERÉ FUNKCE DOPORUČUJI A CHTĚJÍ SI POZMĚNIT NASTAVENÍ:
 Aimbot: 
-1.) Čím menší smooth, tím více to cuká
-2.) Čím větší fov, tím se zvětšuje prostor, kdy bude Aim fungovat (Jestli si nejsi jistej, zapni si "Draw Fov")
-3.) Měj hlavně zaplej "Check Smoke" (Aim nebude fungovat, když je dotyčnej ve smoku"
-4.) Nezapomeň si hlavně zaškrtnout Active (Když to máš zaškrtlé, aim pro tuto zbraň funguje)
+1.)Čím menší smooth, tím více to cuká
+2.)Čím větší fov, tím se zvětšuje prostor, kdy bude Aim fungovat (Jestli si nejsi jistej, zapni si "Draw Fov")
+3.)Měj hlavně zaplej "Check Smoke" (Aim nebude fungovat, když je dotyčnej ve smoku"
+4.)Nezapomeň si hlavně zaškrtnout Active (Když to máš zaškrtlé, aim pro tuto zbraň funguje)
 
 Visuals: 
-1.) Měj zaškrtnutý Enemy (Pokud chceš, aby WH fungovalo. Jestli nechceš, měj to odškrtnutý)
-2.) Měj zaškrtnutý: 
-Rank (Když držíš TAB, vidíš ranky svých i nepřátelských hráčů)
-Enemy (Visuals platí pro Enemy)
-Weapon (Ukáže se ti pod jeho postavou, co momentálně drží za zbraň)
-Bomb (Ukáže se ti vedle postavy, jestli dotyčný nese bombu)
-Name (Nad postavou se ti ukáže jméno hráče)
-Time (Realný čas, který se ukazuje pod barevným písmem vlevo nahoře)
+1.)Měj zaškrtnutý Enemy (Pokud chceš, aby WH fungovalo. Jestli nechceš, měj to odškrtnutý)
+2.)Měj zaškrtnutý: 
+Rank(Když držíš TAB, vidíš ranky svých i nepřátelských hráčů)
+Enemy(Visuals platí pro Enemy)
+Weapon(Ukáže se ti pod jeho postavou, co momentálně drží za zbraň)
+Bomb(Ukáže se ti vedle postavy, jestli dotyčný nese bombu)
+Name(Nad postavou se ti ukáže jméno hráče)
+Time(Realný čas, který se ukazuje pod barevným písmem vlevo nahoře)
 (Zbytek mi příjde zbytečnej. Samozřejmě každej má jiný chutě.)
-3.) Vybereš si, že chceš mít Visible Enemy (Budou se ti ukazovat Enemy a ne lidi z teamu)
+3.)Vybereš si, že chceš mít Visible Enemy (Budou se ti ukazovat Enemy a ne lidi z teamu)
 
 Misc: 
-1.) Zaškrtnutý:
+1.)Zaškrtnutý:
 Auto Accept (Automaticky příjme nalezlou hru)
 Auto Bhop (Automaticky bhopuje - stačí držet mezerník)
 
