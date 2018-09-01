@@ -5,7 +5,7 @@ Jak spustit cheat? Spustíš csko -> jakmile uvidíš že jsi ingame na steamu -
 
 !!! Složku Xenos vlož do dokumentů !!!
 
-V této verzi cheatu jsem udělal nové menu. Vše by mělo být plně funkční. Jen pořád buguje házení do windowsu.
+V této verzi cheatu jsem udělal nové menu a Tool Tipy dal do Češtiny. Vše by mělo být plně funkční. Jen pořád buguje házení do windowsu.
 
 FAQ:
 Q: Nedaří se mi Injectnout cheat do cska, co mám dělat?
