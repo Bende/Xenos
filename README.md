@@ -1,11 +1,63 @@
-# Xenos 1.4.2
-Aktualní verze cheatu je 1.4.2 (Vždy když bude upozornění na discordu, odkaz bude vždy odkazovat sem).
+# Xenos Remastered
+Aktualní verze cheatu je "Remastered" (Vždy když bude upozornění na discordu, odkaz bude vždy odkazovat sem).
 
-Jak spustit cheat? Spustíš csko -> jakmile uvidíš že jsi ingame na steamu -> otevři Xenos_Inj.
-
-!!! Složku Xenos vlož do dokumentů !!!
+Jak spustit cheat? Spustíš csko -> Jakmile budeš v menu -> otevři Xenos_Inj.
 
 V této verzi cheatu jsem udělal nové menu a Tool Tipy dal do Češtiny. Vše by mělo být plně funkční. Jen pořád buguje házení do windowsu.
+
++ Adjusted Menu / GUI
++ Added Color Picker
++ Fixed Loading Convars
++ Fixed Crashes
+
+Added Ragebot:
++ Aimstep
++ Resolver
++ Override Resolver
++ Silent Aim
++ Fakelag
++ Multi Point
++ Point Scale
++ Hitbox
++ Hit Scan (Head-Neck-Spine-Pelvis-Legs)
++ Auto Wall
++ Hit Chance
++ Min Damage
++ BaimAfterShoots
++ BaimAfterHP
++  Auto Fire
++ Auto Stop
++ Auto Crouch
++ No Recoil
+
+Added AntiAim:
++ AAIndicators
++ Pitch
++ RealYaw
++ FakeYaw
+
+Added to Legitbot:
++ pSilent
++ Flash Check
++ Draw Spread
++ RCS Amount x
++ RCS Amount y
+
+Added to ESP:
++ Dlight
++ Damage Indicator
++ Point ESP (Out of view ESP)
++ Defusing
++ InScope
++ Flashed
++ Player Status
+> Updated Grenade Helper
+
+Added to Misc:
++ Anti AFK
++ Telehop
++ Kill Spam
++ Radio Spam
 
 FAQ:
 Q: Nedaří se mi Injectnout cheat do cska, co mám dělat?
