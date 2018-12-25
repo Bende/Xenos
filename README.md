@@ -3,7 +3,7 @@ Aktualní verze cheatu je "Remastered" (Vždy když bude upozornění na discord
 
 Jak spustit cheat? Spustíš csko -> Jakmile budeš v menu -> otevři Xenos_Inj.
 
-V této verzi cheatu jsem udělal nové menu a Tool Tipy dal do Češtiny. Vše by mělo být plně funkční. Jen pořád buguje házení do windowsu.
+Vše by mělo být plně funkční. Jen pořád buguje házení do windowsu.
 
 + Adjusted Menu / GUI
 + Added Color Picker
@@ -61,15 +61,16 @@ Added to Misc:
 
 FAQ:
 Q: Nedaří se mi Injectnout cheat do cska, co mám dělat?
-A: Zkontroluj jestli je Injector a DLL soubor ve stejné složce a jestli se ti i tak nedaří injectnout, kontaktuj mě na Discordu. (Bende) (Nečekej až budu online, na phone mi příjde upozornění i tak.)
+A: Zkontroluj jestli je Injector a DLL soubor ve stejné složce a jestli se ti i tak nedaří injectnout, kontaktuj mě na Discordu. (Silentium) (Nečekej až budu online, na phone mi příjde upozornění i tak.)
 
 Q: Nezobrazují se mi configy, co mám dělat?
-A: Configy musí být v dokumentech ve složce "Xenos", potom se ti určitě zobrazí.
+A: Configy musí být ve stejné složce, kde je celý program.
 
 Q: Když csko hodím do Windowsu, vypne se. Proč?
 A: Je to nějaký bug, sám nevím, proč se to děje. Pokusím se ho časem opravit.
 
 NĚJAKÝ INFO PRO NEZNÁLKY, KTERÉ FUNKCE DOPORUČUJI A CHTĚJÍ SI POZMĚNIT NASTAVENÍ:
+
 Aimbot: 
 1.) Čím menší smooth, tím více to cuká
 2.) Čím větší fov, tím se zvětšuje prostor, kdy bude Aim fungovat (Jestli si nejsi jistej, zapni si "Draw Fov")
